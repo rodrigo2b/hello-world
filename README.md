@@ -1,2 +1,3 @@
 # hello-world
-This is my hello world repository
+
+Hello everyone! I am trying to become more familliar with github.
